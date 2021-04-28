@@ -1,2 +1,2 @@
-# CS2212
+# Data Anaylysis Project
 DAGraph ---- Data Analysis from WorldBank
